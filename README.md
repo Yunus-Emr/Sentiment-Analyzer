@@ -61,21 +61,6 @@ pip install -r requirements.txt
 # Uygulamayı başlatın
 streamlit run app/app.py
 ```
-📊 Model Performansı
-
-    Model: Logistic Regression (multinomial, max_iter=1000)
-
-    Özellikler: CountVectorizer ile karakteristik çıkarım
-
-    Doğruluk: (Confusion Matrix ve accuracy skoruna göre değerlendirin)
-
-📊 Model Performansı
-
-    Model: Logistic Regression (multinomial, max_iter=1000)
-
-    Özellikler: CountVectorizer ile karakteristik çıkarım
-
-    Doğruluk: (Confusion Matrix ve accuracy skoruna göre değerlendirin)
 
 🤝 Katkı
 
