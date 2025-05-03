@@ -7,7 +7,7 @@ Bu proje, Türkçe cümlelerdeki duyguları sınıflandırmak için eğitilmiş 
 ## 🚀 Uygulama Özellikleri
 
 - 📥 Kullanıcıdan metin girişi alır
-- 🧹 Metni ön işler (küçük harfe çevirme, noktalama temizliği, İngilizce stopword filtreleme)
+- 🧹 Metni ön işler (küçük harfe çevirme, noktalama temizliği, Türkçe stopword filtreleme)
 - 🧠 CountVectorizer ile vektörleştirir
 - 🤖 Logistic Regression modeliyle duygu tahmini yapar
 - 🎯 Tahmin sonucunu kullanıcıya açık bir şekilde sunar
